@@ -52,7 +52,7 @@ h2{
   padding: 30px;
   border-radius: 10px;
   color: hsl(0, 0%, 100%);
-  box-shadow: 1px 1px 2px hsl(0, 0%, 81%);
+  box-shadow: 18px 37px 57px -22px rgba(0, 0, 0, 0.2);
 }
 .purple-block{
   background: url(images/bg-pattern-quotation.svg) 80% 0%/ 120px no-repeat hsl(263, 55%, 52%);
