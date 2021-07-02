@@ -7,7 +7,6 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -28,10 +27,6 @@ Users should be able to:
 ![Mobile Screenshot](mobile_screenshot.png)
 ![Desktop Screenshot](desktop_screenshot.png)
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 - I used a mobile-first approach to start this project. I began with the HTML5 markup and organized the testimonials into blocks using divs. I knew they blocks would need various background colors so I first assigned a general class to each testimonial block with the correct border-radius, padding, and box-shadow. Then I created classes for the various background colors and assigned them to the correct testimonial blocks. Then, I created a flexbox container to align the user image, name, and title horizontally in the testimonial block.
